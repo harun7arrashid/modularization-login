@@ -1,4 +1,4 @@
-package com.dicoding.mysimplelogin
+package id.s1mple.core
 
 import android.content.Context
 import android.content.SharedPreferences
